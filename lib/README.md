@@ -23,7 +23,7 @@ class Renter
 end
 ```
 
-```
+```ruby
 # the first two require statements bring in the minitest autorun and pride gems to the project. Way back when, I installed the gems on my computer.
 require 'minitest/autorun'
 require 'minitest/pride'
